@@ -328,3 +328,17 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# Visual Studio
+.vs/
+.vscode/
+
+#Migrations
+Migrations/
+
+#.env
+.env
+
+#Logs
+Logs/
+
